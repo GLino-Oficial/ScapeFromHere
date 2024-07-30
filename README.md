@@ -19,3 +19,4 @@ Collectibles
 ```
 ## Updates
 23/07/24 - Some 3D Objects that will be used in the game
+30/07/24 - Reception table - 3D Object
